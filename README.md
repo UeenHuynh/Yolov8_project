@@ -2,12 +2,17 @@
 # labelImg
 Cách sử dụng Yolvo8 
 B1: Tạo môi trường ảo python -m venv yolov8-env
+
 B2: Activate yolov8-env\Scripts\activate
+
 B3: Tải cái này xuống nè https://github.com/ultralytics/ultralytics
+
 B4: Giải nén và sao chép thư mục vừa giải nén vào thư mục có chứa thư viện yolov8-env
+
 B5: Tải thư viện xuống pip install ultralytics
 pip install pafy
 pip install youtube_dl==2020.12.2
+
 B6: Tải dataset
 Tạo data bằng file python rồi run ra file data.yaml
  
